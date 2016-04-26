@@ -17,5 +17,5 @@ prose:
           element: "multiselect"
           options: "array"
       - name: "categories"
-          element:"multiselect"
+          element: "multiselect"
           options: "array"
