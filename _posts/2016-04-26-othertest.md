@@ -6,3 +6,4 @@ layout: post
 
 Image
 ![PS_Shortcuts.jpg]({{site.baseurl}}/assets/PS_Shortcuts.jpg)
+
