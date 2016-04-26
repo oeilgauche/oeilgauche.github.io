@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://oeilgauche.github.io
+title: oeilgauche
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
