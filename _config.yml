@@ -12,5 +12,10 @@ metadata:
     - name: "layout"
       field:
         element: "hidden"
-        value: "blog"
-  
+        value: "post"
+    - name: "tags"
+        element: "multiselect"
+        options: "array"
+    - name: "categories"
+        element:"multiselect"
+        options: "array"
