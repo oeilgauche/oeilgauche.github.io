@@ -6,3 +6,11 @@ title: oeilgauche
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
+media: assets
+metadata:
+  _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "blog"
+  
