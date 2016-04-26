@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Test
-published: false
+published: true
 ---
 ## A New Post from Prose
 
