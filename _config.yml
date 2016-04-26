@@ -16,5 +16,3 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "tags"
-          element: "text"
