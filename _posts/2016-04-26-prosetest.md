@@ -1,6 +1,6 @@
 ---
 layout: post
-category: ""
+category: Test
 published: false
 ---
 ## A New Post from Prose
