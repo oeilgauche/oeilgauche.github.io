@@ -1,12 +1,13 @@
+
+excerpt_separator: ""
+highlighter: rouge
+markdown: kramdown
+url: http://oeilgauche.github.io
+title: oeilgauche
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
 prose:
-  excerpt_separator: ""
-  highlighter: rouge
-  markdown: kramdown
-  url: http://oeilgauche.github.io
-  title: oeilgauche
-  tagline: A log of everyday life
-  description: My awesome new site
-  paginate: 5
   rooturl: '_posts'
   siteurl: 'http://oeilgauche.github.io'
   media: 'assets'
