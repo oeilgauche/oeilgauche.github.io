@@ -7,7 +7,6 @@ tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
 prose:
-  media: assets
   metadata:
     _posts:
       - name: "layout"
