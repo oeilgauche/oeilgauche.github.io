@@ -38,23 +38,23 @@
   .hero .tech-img {
     background: url("../img/og-logo-BW-site.png") no-repeat center center;
     background-size: cover;
-    // height: 9rem;
-    // width: 9rem;
+    height: 9rem;
+    /*width: 9rem;*/
     height: 85px;
     width: 300px;
-    // border-radius: 50%;
+    /* border-radius: 50%;*/
     display: block;
     text-align: center;
     margin: 0 auto; }
   .hero .icons {
     text-align: center;}
-  .hero .icons a {
+  .hero .icons img {
     height: 64px;
     width: 64px;}
   @media only screen and (min-width: 40.063em) {
-    .hero .tech-img {
-      // height: 18rem;
-      // width: 18rem; }
+    /*.hero .tech-img {*/
+      /*height: 18rem;*/
+      /*width: 18rem; }*/
     .hero h1 {
       padding-top: 0.5rem;
       text-align: center;
