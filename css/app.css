@@ -48,6 +48,9 @@
     margin: 0 auto; }
   .hero .icons {
     text-align: center;}
+  .hero .icons a {
+    height: 64px;
+    width: 64px;}
   @media only screen and (min-width: 40.063em) {
     .hero .tech-img {
       // height: 18rem;
