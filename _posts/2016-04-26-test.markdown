@@ -1,8 +1,0 @@
----
-published: true
-title: Test
-layout: post
-tags: [Hello]
-categories: [test]
----
-This is a test !
