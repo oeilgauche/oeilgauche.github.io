@@ -1,5 +1,5 @@
 .hero {
-  background: url("../img/18-1024x682.jpg") no-repeat center center;
+  background: url("../images/18-1024x682.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh; }
   .hero:before {
@@ -36,7 +36,7 @@
     font-style: italic;
   }
   .hero .tech-img {
-    background: url("../img/og-logo-BW-site.png") no-repeat center center;
+    background: url("../images/og-logo-BW-site.png") no-repeat center center;
     background-size: cover;
     height: 9rem;
     /*width: 9rem;*/
