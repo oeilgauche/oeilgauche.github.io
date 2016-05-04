@@ -48,15 +48,9 @@
     margin: 0 auto; }
   .hero .icons {
     text-align: center;}
-  .hero .fb-img {
-    background: url("../images/fb.png") no-repeat center center;
-    background-size: cover;
+  .hero .icons img {
     height: 64px;
-    width: 64px;
-    /* border-radius: 50%;*/
-    display: block;
-    text-align: center;
-    margin: 0 auto; }
+    width: 64px;}
   @media only screen and (min-width: 40.063em) {
     /*.hero .tech-img {*/
       /*height: 18rem;*/
